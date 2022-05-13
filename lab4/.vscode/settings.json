@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "cstdlib": "cpp",
+        "ostream": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "xutility": "cpp",
+        "stack": "cpp"
+    }
+}

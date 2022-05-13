@@ -1,0 +1,21 @@
+todo
+----------------
+demo robot
+replace 16mm spacers on wheels with standoffs
+put spacers on motor assemblies
+belt up everything and assemble rest of chassis
+recut intake on polycarb
+assemble new intake
+mount hubs
+mount battery holder
+mount spool / spool motor / spool idlers
+assemble vert slides (idlers, inserts, mounting)
+mount vert slides
+cut rex shaft to outtake length
+assemble outtake (epoxy)
+assemble horizontal slides (inserts)
+mount horizontal slides
+assemble arm
+assemble intake (scuffed method, spacer + epoxy)
+
+pizza kids - sort parts and library
