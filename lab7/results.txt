@@ -1,0 +1,5 @@
+pennies: 25
+nickels: 18
+dimes: 0
+quarters: 14
+silver dollars: 10total value: $14.650000

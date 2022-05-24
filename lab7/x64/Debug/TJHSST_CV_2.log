@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Neil\source\repos\TJHSST_CV_2\TJHSST_CV_2\Source.cpp(76,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Neil\source\repos\TJHSST_CV_2\TJHSST_CV_2\Source.cpp(111,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Neil\source\repos\TJHSST_CV_2\TJHSST_CV_2\Source.cpp(117,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TJHSST_CV_2.vcxproj -> C:\Users\Neil\source\repos\TJHSST_CV_2\x64\Debug\TJHSST_CV_2.exe
